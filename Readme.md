@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Stanislav Melekhov](https://up.htmlacademy.ru/javascript/14/user/109619).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
